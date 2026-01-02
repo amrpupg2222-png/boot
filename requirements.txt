@@ -1,0 +1,10 @@
+gunicorn==20.1.0
+python-telegram-bot
+telethon==1.42.0
+flask
+groq
+psycopg2-binary
+sqlalchemy
+requests
+python-dotenv
+pytelegrambotapi
